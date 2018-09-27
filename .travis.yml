@@ -1,7 +1,9 @@
-os: linux-ppc64le
+os:
+  - linux-ppc64le
+  - linux
 language: node_js
 node_js:
-#  - '10'
+  - '10'
   - '8'
 #  - '6'
 #  - '4'
