@@ -9,9 +9,3 @@ node_js:
   - '4'
   - '.12'
   - '.10'
-#matrix:
-#  exclude:
-#  - os: linux-ppc64le
-#    node_js: '.12'
-#  - os: linux-ppc64le
-#    node_js: '.10'
